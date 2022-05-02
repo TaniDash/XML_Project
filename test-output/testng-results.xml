@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="regression" duration-ms="6690" started-at="2022-04-19T17:53:14Z" finished-at="2022-04-19T17:53:21Z">
+  <suite name="regression" duration-ms="6933" started-at="2022-04-27T18:24:38Z" finished-at="2022-04-27T18:24:45Z">
     <groups>
     </groups>
-    <test name="LoginTest" duration-ms="6690" started-at="2022-04-19T17:53:14Z" finished-at="2022-04-19T17:53:21Z">
+    <test name="LoginTest" duration-ms="6933" started-at="2022-04-27T18:24:38Z" finished-at="2022-04-27T18:24:45Z">
       <class name="test.ListCutomerTest">
-        <test-method status="PASS" signature="validUserShouldBeAbleToAddCutomerOnListCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.ListCutomerTest@20e2cbe0]" name="validUserShouldBeAbleToAddCutomerOnListCustomer" duration-ms="6676" started-at="2022-04-19T17:53:14Z" finished-at="2022-04-19T17:53:21Z">
+        <test-method status="PASS" signature="validUserShouldBeAbleToAddCutomerOnListCustomer(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:test.ListCutomerTest@20e2cbe0]" name="validUserShouldBeAbleToAddCutomerOnListCustomer" duration-ms="6919" started-at="2022-04-27T18:24:38Z" finished-at="2022-04-27T18:24:45Z">
           <params>
             <param index="0">
               <value>
